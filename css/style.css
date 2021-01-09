@@ -9,6 +9,15 @@
     padding: 15px;
     margin: 10px;
 }
-.special-progress{
+
+#progress-container{
+    /* height: 200px; */
+}
+#progress-container .progress{
+    width: 10px;
     height: 200px;
+}
+#progress-container .progress-bar{
+    width: 100%;
+    height: 20px;
 }
