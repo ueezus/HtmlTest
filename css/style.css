@@ -10,9 +10,7 @@
   margin: 10px;
 }
 
-#progress-container {
-  /* height: 200px; */
-}
+
 #progress-container .progress {
   width: 10px;
   height: 200px;
